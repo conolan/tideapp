@@ -1,4 +1,4 @@
-# tideapp
+# Tides App
 Corona SDK tide app for Ireland
 
 This app runs on IOS and Android. Designed for phones, but can run on tablets

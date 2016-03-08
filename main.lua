@@ -17,7 +17,7 @@ screenBot=display.contentHeight-display.screenOriginY
 screenWidth=display.contentWidth-display.screenOriginX*2
 screenHeight=display.contentHeight -display.screenOriginY*2
 _G.isResume=false
-_G.pickedDate=""
+
 m_position={}
 m_position.x=16
 m_position.y=208
